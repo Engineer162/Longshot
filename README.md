@@ -11,6 +11,8 @@ This repository contains:
 
 Current version sends/recieves at 868MHz, but this can be changed in firmware, and by changing matching and lowpass filters in the schematic.
 
+Why did i feel the need to create such a module from scratch? Because i simply wasnt satisfied by the speed & range that other modules like LoRa had, so i created my own.
+
 ## RF Main Components
 
 | Function | IC / Module |
