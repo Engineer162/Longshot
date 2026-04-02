@@ -1,0 +1,8 @@
+- [x] Make schematic
+- [ ] Assign footprints
+- [ ] Make base PCB
+- [ ] Place components
+- [ ] Trace PCB
+- [ ] Write firmware
+- [ ] Test
+- [ ] Release stable V1

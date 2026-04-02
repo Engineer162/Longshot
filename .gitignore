@@ -1,0 +1,39 @@
+# Temporary files
+*.000
+*.bak
+*.bck
+*.lck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+*#auto_saved_files#
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+# Backups and other zip archives
+*.zip
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# Footprint association file (exported from Pcbnew)
+*.cmp
+
+# Exported BOM files
+*.xml
+*.csv
+
+# Cache and build directories
+fp-info-cache
+
+# OS files
+.DS_Store
