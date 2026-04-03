@@ -1,9 +1,10 @@
 - [x] Make schematic
 - [x] Assign MPN's
 - [x] Assign footprints
-- [ ] Make base PCB
-- [ ] Place components
-- [ ] Trace PCB
+- [x] Make base PCB
+- [x] Place components
+- [95%] Trace PCB
+- [ ] Add fill zones
 - [ ] Write firmware
 - [ ] Test
 - [ ] Release stable V1
