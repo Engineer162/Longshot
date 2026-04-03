@@ -1,5 +1,6 @@
 - [x] Make schematic
-- [ ] Assign footprints
+- [x] Assign MPN's
+- [x] Assign footprints
 - [ ] Make base PCB
 - [ ] Place components
 - [ ] Trace PCB
