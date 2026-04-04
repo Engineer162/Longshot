@@ -3,8 +3,9 @@
 - [x] Assign footprints
 - [x] Make base PCB
 - [x] Place components
-- [95%] Trace PCB
-- [ ] Add fill zones
+- [x] Trace PCB
+- [x] Impedance match RF traces
+- [x] Add fill zones
 - [ ] Write firmware
 - [ ] Test
 - [ ] Release stable V1
